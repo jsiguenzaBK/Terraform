@@ -1,6 +1,6 @@
 terraform {
   backend "remote" {
-    organization = "getapptitude"
+    organization = "SiguMir"
 
     workspaces {
       name = "terraform1"
